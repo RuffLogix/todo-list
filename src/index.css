@@ -1,0 +1,23 @@
+*{
+    font-family: 'Kanit';
+}
+
+*::selection{
+    background-color: rgb(235,235,235);
+    color: rgb(32,32,35);
+}
+
+html::-webkit-scrollbar{
+    width: 5px;
+    background-color: rgb(32,32,35);
+}
+
+html::-webkit-scrollbar-thumb{
+    width: 3px;
+    background-color: rgb(45,45,45);
+}
+
+html{
+    background-color: rgb(32,32,35);
+    /* background-color: rgb(65, 65, 65); */
+}

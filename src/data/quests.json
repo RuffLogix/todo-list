@@ -1,0 +1,22 @@
+[
+  {
+    "tags" : ["Relax" , "work"],
+    "image" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F245438-artwork-fantasy_art-RPG-video_games.jpg&f=1&nofb=1",
+    "title" : "ไม่เปิด social 1 ชั่วโมง",
+    "details" : ["ไม่เล่น social media 1 ชั่วโมง","หาอะไรอย่างอื่นทำ","ทำสมาธิ"],
+    "experience" : 20
+  },{
+    "tags" : ["Exercise" , "work"],
+    "image" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F245438-artwork-fantasy_art-RPG-video_games.jpg&f=1&nofb=1",
+    "title" : "วิ่ง 30 นาที",
+    "details" : ["ออกไปวิ่งข้างนอก 30 นาที","สุขภาพแข็งแรง","เพิ่มค่า ATK"],
+    "experience" : 25
+  },{
+    "tags" : ["Relax"],
+    "image" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F245438-artwork-fantasy_art-RPG-video_games.jpg&f=1&nofb=1",
+    "title" : "นั่งสมาธิ 1 ชั่วโมง",
+    "details" : ["เพิ่มสมาธิในการทำเรื่องต่างๆ"],
+    "experience" : 50
+  }
+]
+
